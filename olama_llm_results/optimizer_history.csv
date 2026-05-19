@@ -1,0 +1,81 @@
+iteration,mode,accepted,before_score,proposal_score,current_score,best_score,selected_operation_ids,applied_operations,llm_raw_response,before_mood_fit,before_smoothness,before_diversity,before_popularity,before_duration_fit,proposal_mood_fit,proposal_smoothness,proposal_diversity,proposal_popularity,proposal_duration_fit
+1,backup_menu_top1,True,0.792568257691935,0.8074348108585567,0.8074348108585567,0.8074348108585567,[135],"[{""action"": ""replace"", ""position"": 7, ""new_cid"": 721, ""reason"": ""replace a weak track with a stronger candidate""}]","{
+  ""selected_operation_ids"": [1, 2],
+  ""reason"": ""The selected operation IDs are 1 and 2. These operations replace the weak track with a stronger candidate.""
+}",0.9445832083926471,0.9382865015479878,0.9774625468375577,0.31900000000000006,0.0,0.9444343521588235,0.9659652476780185,0.9716807117506532,0.361,0.04955333333333267
+2,backup_menu_top1,True,0.8074348108585567,0.8346463449707472,0.8346463449707472,0.8346463449707472,[41],"[{""action"": ""replace"", ""position"": 3, ""new_cid"": 537, ""reason"": ""replace a weak track with a stronger candidate""}]","{
+  ""selected_operation_ids"": [1, 2],
+  ""reason"": ""The selected operation IDs are 1 and 2.""
+}",0.9444343521588235,0.9659652476780185,0.9716807117506532,0.361,0.04955333333333267,0.944283246614706,0.962388931888545,0.9716807117506532,0.402,0.29013833333333283
+3,backup_menu_top1,True,0.8346463449707472,0.8489127379298207,0.8489127379298207,0.8489127379298207,[462],"[{""action"": ""replace"", ""position"": 19, ""new_cid"": 592, ""reason"": ""replace a weak track with a stronger candidate""}]","{
+  ""selected_operation_ids"": [1, 2],
+  ""reason"": ""The selected operations replace a weak track with a stronger candidate and then replace the new track with a different ID.""
+}",0.944283246614706,0.962388931888545,0.9716807117506532,0.402,0.29013833333333283,0.9443551436735295,0.964020572755418,0.9721993889428209,0.43550000000000005,0.39393416666666636
+4,schema,True,0.8489127379298207,0.8603169926068588,0.8603169926068588,0.8603169926068588,"[1, 2]","[{""action"": ""replace"", ""position"": 2, ""new_cid"": 59, ""reason"": ""replace a weak track with a stronger candidate""}]","{
+  ""selected_operation_ids"": [1, 2],
+  ""reason"": ""The selected operation IDs are 1 and 2.""
+}",0.9443551436735295,0.964020572755418,0.9721993889428209,0.43550000000000005,0.39393416666666636,0.9455906118499999,0.9661357430340557,0.9774625468375577,0.47750000000000004,0.4458383333333338
+5,backup_menu_top1,True,0.8603169926068588,0.8714716662175398,0.8714716662175398,0.8714716662175398,[218],"[{""action"": ""replace"", ""position"": 12, ""new_cid"": 208, ""reason"": ""replace a weak track with a stronger candidate""}]","{
+  ""selected_operation_ids"": [1, 2],
+  ""reason"": ""The selected operation IDs are 1 and 2.""
+}",0.9455906118499999,0.9661357430340557,0.9774625468375577,0.47750000000000004,0.4458383333333338,0.9461794603794116,0.9682280495356037,0.9774625468375577,0.5025000000000001,0.5250933333333329
+6,backup_menu_top1,True,0.8714716662175398,0.9035331429049472,0.9035331429049472,0.9035331429049472,[87],"[{""action"": ""replace"", ""position"": 4, ""new_cid"": 85, ""reason"": ""replace a weak track with a stronger candidate""}]","{
+  ""selected_operation_ids"": [1, 2],
+  ""reason"": ""The selected operations replace the first element of the list with a new value (31). This is a promising operation as it can improve the accuracy of the model.""
+}",0.9461794603794116,0.9682280495356037,0.9774625468375577,0.5025000000000001,0.5250933333333329,0.947091448614706,0.9709386687306502,0.9721490102023549,0.5235,0.8253666666666664
+7,backup_menu_top1,True,0.9035331429049472,0.9178879018733364,0.9178879018733364,0.9178879018733364,[409],"[{""action"": ""replace"", ""position"": 17, ""new_cid"": 129, ""reason"": ""replace a weak track with a stronger candidate""}]","{
+  ""selected_operation_ids"": [1, 2],
+  ""reason"": ""The selected operation IDs are 1 and 2.""
+}",0.947091448614706,0.9709386687306502,0.9721490102023549,0.5235,0.8253666666666664,0.9477875888058824,0.9717913003095975,0.9788121035693911,0.5499999999999999,0.9245199999999997
+8,backup_menu_top1,True,0.9178879018733364,0.9266957621458072,0.9266957621458072,0.9266957621458072,[50],"[{""action"": ""replace"", ""position"": 6, ""new_cid"": 495, ""reason"": ""replace a weak track with a stronger candidate""}]","{
+  ""selected_operation_ids"": [1, 2],
+  ""reason"": ""The selected operations have the highest predicted scores and can be considered most promising.""
+}",0.9477875888058824,0.9717913003095975,0.9788121035693911,0.5499999999999999,0.9245199999999997,0.9471783542558823,0.9715111145510837,0.9859186309257209,0.5609999999999999,0.990218333333333
+9,backup_menu_top1,True,0.9266957621458072,0.9290807574250951,0.9290807574250951,0.9290807574250951,[401],"[{""action"": ""replace"", ""position"": 19, ""new_cid"": 498, ""reason"": ""replace a weak track with a stronger candidate""}]","{
+  ""selected_operation_ids"": [1, 2],
+  ""reason"": ""The selected operations involve replacing a weak track with a stronger candidate and moving tracks to improve transition smoothness. These actions are promising as they can significantly enhance the overall performance of the model.""
+}",0.9471783542558823,0.9715111145510837,0.9859186309257209,0.5609999999999999,0.990218333333333,0.9470639688088236,0.9695382352941175,0.9859186309257209,0.586,0.994400833333333
+10,backup_menu_top1,True,0.9290807574250951,0.9300366738006112,0.9300366738006112,0.9300366738006112,[227],"[{""action"": ""replace"", ""position"": 12, ""new_cid"": 75, ""reason"": ""replace a weak track with a stronger candidate""}]","{
+  ""selected_operation_ids"": [1, 2],
+  ""reason"": ""The selected operations have the highest predicted scores and are likely to be the most promising.""
+}",0.9470639688088236,0.9695382352941175,0.9859186309257209,0.586,0.994400833333333,0.9480647124852941,0.9678105263157896,0.9859186309257209,0.591,0.9997766666666671
+11,backup_menu_top1,False,0.9300366738006112,0.9300366738006112,0.9300366738006112,0.9300366738006112,[495],"[{""action"": ""move"", ""from_position"": 5, ""to_position"": 17, ""reason"": ""reorder tracks to improve transition smoothness""}]","{
+  ""selected_operation_ids"": [1, 2],
+  ""reason"": ""The selected operations have the highest predicted scores and are likely to improve the smoothness of the transitions.""
+}",0.9480647124852941,0.9678105263157896,0.9859186309257209,0.591,0.9997766666666671,0.9480647124852941,0.9678105263157896,0.9859186309257209,0.591,0.9997766666666671
+12,backup_menu_top1,False,0.9300366738006112,0.9300366738006112,0.9300366738006112,0.9300366738006112,[495],"[{""action"": ""move"", ""from_position"": 5, ""to_position"": 17, ""reason"": ""reorder tracks to improve transition smoothness""}]","{
+  ""selected_operation_ids"": [1, 2],
+  ""reason"": ""The selected operations have the highest predicted scores and are likely to be most promising.""
+}",0.9480647124852941,0.9678105263157896,0.9859186309257209,0.591,0.9997766666666671,0.9480647124852941,0.9678105263157896,0.9859186309257209,0.591,0.9997766666666671
+13,backup_menu_top1,False,0.9300366738006112,0.9300366738006112,0.9300366738006112,0.9300366738006112,[495],"[{""action"": ""move"", ""from_position"": 5, ""to_position"": 17, ""reason"": ""reorder tracks to improve transition smoothness""}]","{
+  ""selected_operation_ids"": [1, 2],
+  ""reason"": ""The selected operations have the highest predicted scores and are likely to be most promising.""
+}",0.9480647124852941,0.9678105263157896,0.9859186309257209,0.591,0.9997766666666671,0.9480647124852941,0.9678105263157896,0.9859186309257209,0.591,0.9997766666666671
+14,backup_menu_top1,False,0.9300366738006112,0.9300366738006112,0.9300366738006112,0.9300366738006112,[495],"[{""action"": ""move"", ""from_position"": 5, ""to_position"": 17, ""reason"": ""reorder tracks to improve transition smoothness""}]","{
+  ""selected_operation_ids"": [1, 2],
+  ""reason"": ""The selected operations have the highest predicted scores and are likely to be most promising.""
+}",0.9480647124852941,0.9678105263157896,0.9859186309257209,0.591,0.9997766666666671,0.9480647124852941,0.9678105263157896,0.9859186309257209,0.591,0.9997766666666671
+15,backup_menu_top1,False,0.9300366738006112,0.9300366738006112,0.9300366738006112,0.9300366738006112,[495],"[{""action"": ""move"", ""from_position"": 5, ""to_position"": 17, ""reason"": ""reorder tracks to improve transition smoothness""}]","{
+  ""selected_operation_ids"": [1, 2],
+  ""reason"": ""The selected operations have the highest predicted scores and are likely to be most promising.""
+}",0.9480647124852941,0.9678105263157896,0.9859186309257209,0.591,0.9997766666666671,0.9480647124852941,0.9678105263157896,0.9859186309257209,0.591,0.9997766666666671
+16,backup_menu_top1,False,0.9300366738006112,0.9300366738006112,0.9300366738006112,0.9300366738006112,[495],"[{""action"": ""move"", ""from_position"": 5, ""to_position"": 17, ""reason"": ""reorder tracks to improve transition smoothness""}]","{
+  ""selected_operation_ids"": [1, 2],
+  ""reason"": ""The selected operations have a predicted score of 0.93 and are the most promising.""
+}",0.9480647124852941,0.9678105263157896,0.9859186309257209,0.591,0.9997766666666671,0.9480647124852941,0.9678105263157896,0.9859186309257209,0.591,0.9997766666666671
+17,backup_menu_top1,False,0.9300366738006112,0.9300366738006112,0.9300366738006112,0.9300366738006112,[495],"[{""action"": ""move"", ""from_position"": 5, ""to_position"": 17, ""reason"": ""reorder tracks to improve transition smoothness""}]","{
+  ""selected_operation_ids"": [1, 2],
+  ""reason"": ""The selected operations have the highest predicted scores and are likely to be most promising.""
+}",0.9480647124852941,0.9678105263157896,0.9859186309257209,0.591,0.9997766666666671,0.9480647124852941,0.9678105263157896,0.9859186309257209,0.591,0.9997766666666671
+18,backup_menu_top1,False,0.9300366738006112,0.9300366738006112,0.9300366738006112,0.9300366738006112,[495],"[{""action"": ""move"", ""from_position"": 5, ""to_position"": 17, ""reason"": ""reorder tracks to improve transition smoothness""}]","{
+  ""selected_operation_ids"": [1, 2],
+  ""reason"": ""The selected operations have the highest predicted scores and are likely to be most promising.""
+}",0.9480647124852941,0.9678105263157896,0.9859186309257209,0.591,0.9997766666666671,0.9480647124852941,0.9678105263157896,0.9859186309257209,0.591,0.9997766666666671
+19,backup_menu_top1,False,0.9300366738006112,0.9300366738006112,0.9300366738006112,0.9300366738006112,[495],"[{""action"": ""move"", ""from_position"": 5, ""to_position"": 17, ""reason"": ""reorder tracks to improve transition smoothness""}]","{
+  ""selected_operation_ids"": [1, 2],
+  ""reason"": ""The selected operations have the highest predicted scores and are likely to be most promising.""
+}",0.9480647124852941,0.9678105263157896,0.9859186309257209,0.591,0.9997766666666671,0.9480647124852941,0.9678105263157896,0.9859186309257209,0.591,0.9997766666666671
+20,backup_menu_top1,False,0.9300366738006112,0.9300366738006112,0.9300366738006112,0.9300366738006112,[495],"[{""action"": ""move"", ""from_position"": 5, ""to_position"": 17, ""reason"": ""reorder tracks to improve transition smoothness""}]","{
+  ""selected_operation_ids"": [1, 2],
+  ""reason"": ""The selected operations have the highest predicted scores and are likely to be most promising.""
+}",0.9480647124852941,0.9678105263157896,0.9859186309257209,0.591,0.9997766666666671,0.9480647124852941,0.9678105263157896,0.9859186309257209,0.591,0.9997766666666671

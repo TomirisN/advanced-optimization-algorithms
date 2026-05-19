@@ -1,0 +1,21 @@
+position,cid,track_name,artists,genre,popularity,duration_min,danceability,energy,valence,tempo,individual_mood_fit
+1,67,Breaking Me,Topic;A7S,edm,0,2.78,0.789,0.72,0.664,122.031,0.959
+2,129,Alors On Danse - DubDogz Remix,Stromae;Dubdogz,house,70,2.81,0.789,0.752,0.739,122.98,0.954
+3,85,Tyler Herro,Jack Harlow,k-pop,74,2.61,0.792,0.793,0.775,123.031,0.958
+4,74,Pas la peine,Vaudou Game,afrobeat,20,3.571,0.82,0.788,0.8,122.712,0.958
+5,102,Mostro,Los Amigos Invisibles,afrobeat,21,2.67,0.853,0.799,0.798,125.015,0.957
+6,495,KESI - Remix,Camilo;Shawn Mendes,reggae,76,2.943,0.871,0.815,0.823,122.959,0.941
+7,208,LAS 12,Ana Mena;Belinda,spanish,79,2.754,0.784,0.814,0.728,129.96,0.95
+8,75,Girls Just Want to Have Fun,Cyndi Lauper,disco,79,3.971,0.71,0.799,0.725,120.372,0.958
+9,721,Hot In It,Tiësto;Charli XCX,edm,84,2.164,0.748,0.841,0.717,123.045,0.937
+10,360,KK,250 kg kärlek;F.E.S.T;Sofie Svensson,swedish,43,2.766,0.84,0.849,0.704,126.002,0.944
+11,670,Endhuko Pichi Pichi,Karunya,indie,58,4.532,0.863,0.851,0.652,123.951,0.937
+12,592,You Proof,Morgan Wallen,country,86,2.625,0.731,0.85,0.644,119.706,0.939
+13,344,Give It To Me,Sigma;Kelly Kiara,drum-and-bass,56,2.832,0.785,0.869,0.755,116.002,0.945
+14,339,Sunshine (The Light),Fat Joe;DJ Khaled;Amorphous,hardcore,64,2.495,0.8,0.832,0.736,106.983,0.945
+15,69,Bali Maou,Amadou & Mariam,blues,0,4.216,0.783,0.78,0.737,104.865,0.959
+16,59,Enséñame a Bailar,Bad Bunny,latino,84,2.933,0.81,0.789,0.77,105.009,0.96
+17,604,Condo,Afro B;T-Pain,dancehall,53,2.766,0.843,0.76,0.806,107.013,0.939
+18,498,Ele Te Bota Soca Soca,MC Mazzie;Mc Rd;DJ NpcSize;DJ Wizard,funk,75,3.015,0.896,0.746,0.752,130.138,0.941
+19,537,Numb,Marshmello;Khalid,dance,87,2.593,0.912,0.774,0.632,119.966,0.94
+20,583,Basics,TWICE,k-pop,73,2.95,0.778,0.8,0.585,137.997,0.939
