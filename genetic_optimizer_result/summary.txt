@@ -1,0 +1,28 @@
+Genetic Algorithm for Spotify Playlist Optimization
+
+Parameters:
+- Population size: 100
+- Generations: 100
+- Mutation rate: 0.15
+- Crossover rate: 0.85
+- Elitism count: 5
+- Tournament size: 5
+- Scenario: party
+
+Initial best score: 0.899742
+Final best score: 0.931370
+Improvement: 0.031628
+
+Final components:
+{
+  "score": 0.9313702432567744,
+  "mood_fit": 0.9504072409411766,
+  "smoothness": 0.952059520123839,
+  "diversity": 0.9966337278153476,
+  "popularity": 0.628,
+  "duration_fit": 0.9858608333333333,
+  "total_duration_min": 59.717216666666666,
+  "unique_ratio": 1.0
+}
+
+Elapsed time: 110.25 seconds

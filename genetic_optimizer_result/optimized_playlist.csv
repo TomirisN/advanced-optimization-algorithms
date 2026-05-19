@@ -1,0 +1,21 @@
+position,cid,track_name,artists,genre,popularity,duration_min,danceability,energy,valence,tempo,individual_mood_fit
+1,99,Puff Daddy,JPEGMAFIA;Kenny Beats,industrial,50,2.122,0.876,0.807,0.691,135.754,0.957
+2,572,Frankenstein,Claire Rosinkranz,indie-pop,67,3.371,0.826,0.745,0.883,119.92,0.939
+3,19,Slow Motion Angreza,Shankar-Ehsaan-Loy;Sukhwinder Singh;Loy Mendonsa;Shankar Mahadevan,pop-film,56,4.342,0.802,0.763,0.789,120.078,0.969
+4,114,Mafiosa (feat. Caroliina),Lartiste;Caroliina,french,65,3.228,0.867,0.724,0.757,128.97,0.956
+5,371,Lemonade,Diljit Dosanjh,pop,74,2.778,0.789,0.744,0.783,143.998,0.944
+6,351,CHEI DE GATA,Flora Matos,r-n-b,42,2.666,0.8,0.724,0.685,134.945,0.945
+7,10,Calma - Remix,Pedro Capó;Farruko,latin,74,3.97,0.826,0.773,0.761,126.899,0.973
+8,59,Enséñame a Bailar,Bad Bunny,latino,84,2.933,0.81,0.789,0.77,105.009,0.96
+9,246,Baby Shark,Pinkfong,children,77,1.349,0.829,0.886,0.777,115.056,0.949
+10,418,Dilaan De Rajya,Maninder Buttar,hip-hop,59,2.039,0.778,0.743,0.834,121.956,0.943
+11,341,"Money, Money, Money",ABBA,swedish,65,3.113,0.756,0.741,0.691,120.445,0.945
+12,492,Do It All Again,Punctual;Jordan Shaw,edm,73,2.29,0.748,0.786,0.664,123.996,0.941
+13,160,Believer,Imagine Dragons,rock,88,3.406,0.776,0.78,0.666,124.949,0.953
+14,472,La Envidia,Bayron Fire;Alex Sobre A,reggaeton,42,3.878,0.869,0.825,0.797,120.079,0.941
+15,710,Stupid Feelings,220 KID;LANY,house,68,2.782,0.715,0.778,0.756,123.954,0.937
+16,381,G Phaad Ke,Divya Kumar;Shefali Alvares,folk,44,3.217,0.846,0.747,0.79,128.007,0.944
+17,14,Gizmo,Syn Cole,deep-house,45,3.194,0.788,0.793,0.752,124.039,0.97
+18,98,Always,ENHYPEN,anime,59,3.115,0.804,0.771,0.73,110.014,0.957
+19,650,Celebrity,IU,k-pop,68,3.259,0.73,0.784,0.673,99.995,0.938
+20,271,Lala Lori,Fazilpuria;Afsana Khan,hip-hop,56,2.667,0.863,0.741,0.682,105.037,0.948
