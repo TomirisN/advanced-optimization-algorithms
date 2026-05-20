@@ -1,10 +1,10 @@
 {
-  "score": 0.9300366738006112,
-  "mood_fit": 0.9480647124852941,
-  "smoothness": 0.9678105263157896,
-  "diversity": 0.9859186309257209,
-  "popularity": 0.591,
-  "duration_fit": 0.9997766666666671,
-  "total_duration_min": 59.99553333333334,
+  "score": 0.9400074117378864,
+  "mood_fit": 0.9494470663441176,
+  "smoothness": 0.9620466563467491,
+  "diversity": 0.9911817888204572,
+  "popularity": 0.6914999999999999,
+  "duration_fit": 0.9980291666666666,
+  "total_duration_min": 60.03941666666667,
   "unique_ratio": 1.0
 }
