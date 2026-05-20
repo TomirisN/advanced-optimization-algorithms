@@ -1,0 +1,21 @@
+position,cid,track_name,artists,genre,popularity,duration_min,danceability,energy,valence,tempo,individual_mood_fit
+1,495,KESI - Remix,Camilo;Shawn Mendes,reggae,76,2.943,0.871,0.815,0.823,122.959,0.941
+2,85,Tyler Herro,Jack Harlow,k-pop,74,2.61,0.792,0.793,0.775,123.031,0.958
+3,10,Calma - Remix,Pedro Capó;Farruko,latin,74,3.97,0.826,0.773,0.761,126.899,0.973
+4,0,Sonho Lindo,Raquel dos Teclados,forro,49,4.016,0.822,0.8,0.696,128.856,0.98
+5,43,Eu Vou pra Igreja - Ao Vivo,Gusttavo Lima,sertanejo,49,2.839,0.832,0.82,0.744,128.983,0.963
+6,192,Die Right Here,david hugo,indie-pop,62,2.127,0.784,0.818,0.712,130.01,0.951
+7,135,Sweat - Remix,Snoop Dogg;David Guetta;Giorgio Tuinfort;Frederic Riesterer,funk,69,3.266,0.813,0.732,0.731,130.02,0.954
+8,515,Mezzanotte,Ana Mena,spanish,67,2.754,0.757,0.737,0.705,129.941,0.94
+9,341,"Money, Money, Money",ABBA,swedish,65,3.113,0.756,0.741,0.691,120.445,0.945
+10,129,Alors On Danse - DubDogz Remix,Stromae;Dubdogz,house,70,2.81,0.789,0.752,0.739,122.98,0.954
+11,364,motive (with Doja Cat),Ariana Grande;Doja Cat,dance,78,2.8,0.789,0.742,0.661,116.965,0.944
+12,455,Toxic,AP Dhillon;Intense,hip-hop,69,3.068,0.802,0.737,0.577,116.955,0.942
+13,237,Una Vaina Loca,Fuego,reggaeton,75,3.148,0.792,0.676,0.712,117.011,0.949
+14,318,Vanilla,Burna Boy,dancehall,65,2.591,0.806,0.675,0.719,100.006,0.946
+15,635,Potion (with Dua Lipa & Young Thug),Calvin Harris;Dua Lipa;Young Thug,electro,79,3.574,0.824,0.697,0.757,99.988,0.938
+16,59,Enséñame a Bailar,Bad Bunny,latino,84,2.933,0.81,0.789,0.77,105.009,0.96
+17,452,Calm Down (with Selena Gomez),Rema;Selena Gomez,pop,92,3.989,0.801,0.806,0.802,106.999,0.942
+18,584,Dale,Pole.;Hens,spanish,62,2.736,0.818,0.808,0.798,110.023,0.939
+19,721,Hot In It,Tiësto;Charli XCX,edm,84,2.164,0.748,0.841,0.717,123.045,0.937
+20,497,Monster,LUM!X;Gabry Ponte,house,72,2.57,0.83,0.794,0.607,128.16,0.941

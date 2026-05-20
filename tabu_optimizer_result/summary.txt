@@ -1,0 +1,31 @@
+Tabu Search for Spotify Playlist Optimization
+
+Parameters:
+- Tabu tenure: 15
+- Max iterations: 300
+- Neighbor size: 50
+- Aspiration criterion: True
+- Diversification frequency: 100
+- Intensification frequency: 50
+- Scenario: party
+- Seed: 42
+
+Results:
+- Initial best score: 0.876689
+- Final best score: 0.944559
+- Improvement: 0.067870
+- Improvement (%): 7.74%
+
+Final components:
+{
+  "score": 0.9445588476103315,
+  "mood_fit": 0.9498351793632354,
+  "smoothness": 0.9709743188854487,
+  "diversity": 0.9936693588925177,
+  "popularity": 0.7075,
+  "duration_fit": 0.9988908333333335,
+  "total_duration_min": 60.02218333333333,
+  "unique_ratio": 1.0
+}
+
+Elapsed time: 143.94 seconds
